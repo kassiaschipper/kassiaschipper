@@ -38,3 +38,6 @@
 <br clear="both">
 
 ###
+<div align="center">
+  <img src="https://github.com/kassiaschipper/kassiaschipper/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
