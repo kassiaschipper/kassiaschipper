@@ -1,5 +1,5 @@
 <h2 align="left">Hell there 👋! I am Kássia.</h2>
-<h4 alingn="center">I'm currently a student of the Full Stack Development Bootcamp at Driven</h4>
+<h4 align="center"> I'm currently a student of the Full Stack Development Bootcamp at Driven.</h4>
 
 ###
 
