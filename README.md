@@ -1,5 +1,5 @@
 <h2 align="left">Hell there 👋! I am Kássia.</h2>
-<h4 align="center"> I'm currently a student of the Full Stack Development Bootcamp at Driven.</h4>
+<h4 align="center"> I am a mother, mechanical engineer and recently graduated in administration. I love learning and have found a new passion in programming. I'm currently a student of the Full Stack Development Bootcamp at Driven.</h4>
 
 ###
 
