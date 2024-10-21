@@ -1,5 +1,5 @@
 <h2 align="left">Hell there 👋! I am Kássia!</h2>
-<h4 align="center"> I'm a Full Stack Developer also a mother, mechanical engineer and recently graduated in administration. I love learning and have found a new passion in programming.</h4>
+<h4 align="center"> I am a dedicated Full Stack Developer, who thrives on transforming challenges into functional solutions. My passion for programming fuels my ongoing journey of growth and innovation in the tech world.</h4>
 
 ###
 
